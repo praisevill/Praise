@@ -1,49 +1,124 @@
-Business Analysis Project
 
- Project Overview
+📊 Global Phone Sales Analysis (Excel Project)
 
-This project focuses on analyzing business data to support informed decision-making. The analysis evaluates key performance indicators (KPIs), identifies trends, uncovers inefficiencies, and provides actionable insights to improve overall business performance.
-The goal of this project is to demonstrate practical business analysis skills, including data cleaning, exploratory analysis, visualization, and insight generation.
+Project Overview
 
- Objectives
+This project analyzes global phone sales data across four major brands — iPhone, Samsung, Redmi, and Tesla — using Microsoft Excel. The objective is to uncover sales patterns, regional performance, revenue distribution, and brand-level insights through pivot tables, summary metrics, and visualizations.
 
-Analyze historical business data
-Identify trends and patterns in performance
-Evaluate key metrics such as revenue, sales volume, and profitability
-Provide data-driven recommendations for business growth
+This repository is designed as a portfolio-ready data analytics project, demonstrating skills in data cleaning, transformation, analysis, and business reporting using Excel.
 
- Tools & Technologies
 
-Microsoft Excel (Pivot Tables, Charts, Formulas)
-Power BI (Dashboards & Visualizations)
-Data Cleaning & Preparation Techniques
+Dataset Description
 
- Project Structure
+The dataset contains 100 records of simulated phone sales transactions.
 
-/data – Raw and cleaned datasets
-/analysis – Excel and Power BI analysis files
-/visuals – Charts, dashboards, and screenshots
-README.md – Project documentation
+Columns
 
- Key Insights
+Column Name	Description
 
-Sales trends vary significantly across time periods
-Certain products and regions outperform others
-Opportunities exist to optimize operations and increase profitability
+Brand	Phone brand name
+Region	Sales region
+Quantity	Units sold
+Price_per_Unit_USD	Unit price in USD
+Total_Revenue_USD	Quantity × Price
 
- Recommendations
+Tools Used
 
-Focus on high-performing products and regions
-Improve underperforming areas using targeted strategies
-Use dashboards for continuous performance monitoring
+Microsoft Excel
 
- How to Use This Project
+Pivot Tables
 
-Download the dataset from the data folder
-Open the Excel or Power BI files
-Explore the dashboards and pivot tables
-Review insights and recommendations
+Excel Charts
 
-👤 Author
+Data Cleaning Techniques
+
+Descriptive Statistics
+
+
+
+Project Objectives
+
+Analyze sales performance by brand
+
+Understand regional demand
+
+Identify top-performing regions
+
+Compare pricing across brands
+
+Calculate total revenue and volume
+
+Create professional business visuals
+
+
+Key Insights (Sample)
+
+Brand with highest total revenue
+
+Region with highest demand
+
+Best-selling product by quantity
+
+Average pricing comparison
+
+Revenue contribution per region
+
+
+Folder Structure
+
+phone-sales-analysis/
+│
+├── data/
+│   └── phone_sales_dataset.csv
+│
+├── excel/
+│   └── Phone_Sales_Analysis.xlsx
+│
+├── visuals/
+│   └── charts.png
+│
+├── reports/
+│   └── Sales_Insights_Report.pdf
+│
+└── README.md
+
+How to Use This Project
+
+1. Download the Excel file from the excel folder
+
+
+2. Explore the raw data
+
+
+3. Review pivot tables and summaries
+
+
+4. Interact with charts
+
+
+5. Read insights from the report
+
+Use Cases
+
+Portfolio project
+
+Excel practice
+
+Business analytics demo
+
+Dashboard inspiration
+
+Data storytelling
+
+Author
+
 Praise Philip
-Business Analyst
+📧 Email: praisephilip604@gmail.com
+📞 Phone: 08021648137
+
+
+License
+
+This project is free to use for learning, teaching, and portfolio demonstration
+
+RAW DATA SET FOR THE PROJECT
